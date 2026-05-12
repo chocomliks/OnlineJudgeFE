@@ -6,19 +6,19 @@
 [![element-ui](https://img.shields.io/badge/element-2.0.9-blue.svg?style=flat-square)](https://github.com/ElemeFE/element)
 [![Build Status](https://travis-ci.org/QingdaoU/OnlineJudgeFE.svg?branch=master)](https://travis-ci.org/QingdaoU/OnlineJudgeFE)
 
->### A multiple pages app built for OnlineJudge. [Demo](https://qduoj.com)
+>### OnlineJudge를 위해 제작된 다중 페이지 앱입니다. [데모 보기](https://qduoj.com)
 
-## Features
+## 주요 기능
 
-+ Webpack3 multiple pages with bundle size optimization
-+ Easy use simditor & Nice codemirror editor
-+ Amazing charting and visualization(echarts)
-+ User-friendly operation
-+ Quite beautiful：)
++ 번들 크기가 최적화된 Webpack3 다중 페이지
++ 사용하기 쉬운 simditor 및 깔끔한 codemirror 에디터
++ 뛰어난 차트 및 데이터 시각화 (echarts)
++ 사용자 친화적인 인터페이스 및 조작
++ 꽤 아름답습니다 :)
 
-## Get Started
+## 시작하기
 
-Install nodejs **v8.12.0** first.
+먼저 Node.js v8.12.0 버전을 설치해 주세요.
 
 ### Linux
 
@@ -51,14 +51,14 @@ set TARGET=http://Your-backend
 npm run dev
 ```
 
-## Screenshots
+## 스크린샷
 
-[Check here.](https://github.com/QingdaoU/OnlineJudge)
+[여기서 확인하세요.](https://github.com/QingdaoU/OnlineJudge)
 
-## Browser Support
+## 지원하는 브라우저
 
-Modern browsers and Internet Explorer 10+.
+최신 모던 브라우저 및 Internet Explorer 10 이상.
 
-## LICENSE
+## 라이선스
 
 [MIT](http://opensource.org/licenses/MIT)
